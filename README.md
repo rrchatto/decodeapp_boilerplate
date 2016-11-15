@@ -2,6 +2,7 @@
 Decode App Boiler-Plate/Starter File/NodeHerokuSetup
 
 Tools
+
 1. Web Framework: [NodeJS](https://nodejs.org/en/download/)
 1. Text Editor: [Sublime](https://www.sublimetext.com/3)
 1. Version Control: [Git](https://git-scm.com/download/win)
@@ -9,6 +10,7 @@ Tools
 1. Cloud Platform: [Heroku](https://www.heroku.com/)
 
 Checklist
+
  ✔ should have node installed
  ✔ should have Sublime Text Editor
  ✔ should have Github Account
@@ -16,6 +18,7 @@ Checklist
  ✔ should have Portable Git Bash
 
 Tasks
+
   ☐ $ node -v
   ☐ $ git --version
   ☐ $ git clone https://github.com/clydeinwebdev/decodeapp_boilerplate.git myapp
