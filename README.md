@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #DECODE APP BOILER-PLATE
 
 1. Text Editor: Sublime
@@ -55,3 +56,7 @@ Enter same passphrase again:
 * ```$ git remote -v```
 * ```$ git remote set-url origin https://github.com/clydeinwebdev/balamanapp.git```
 * ```$ git push -u origin master```
+=======
+# decodeapp_boilerplate
+Decode App Boiler-Plate/Starter File/NodeHerokuSetup
+>>>>>>> 79b8f72772a8a23fe450717ee76e14851415b0d4
