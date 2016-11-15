@@ -1,41 +1,32 @@
-<<<<<<< HEAD
 #DECODE APP BOILER-PLATE
+Decode App Boiler-Plate/Starter File/NodeHerokuSetup
 
-1. Text Editor: Sublime
-2. Remote Repository: Github
-3. Version Control: Git
-4. Deployment: Heroku
+Tools
+1. Web Framework: [NodeJS](https://nodejs.org/en/download/)
+1. Text Editor: [Sublime](https://www.sublimetext.com/3)
+1. Version Control: [Git](https://git-scm.com/download/win)
+1. Remote Repository: [Github](https://github.com/)
+1. Cloud Platform: [Heroku](https://www.heroku.com/)
 
 Checklist
- * should have Github Account
- * should have Heroku Account
- * should have Sublime Text
- * should have Portable Git
+ ✔ should have node installed
+ ✔ should have Sublime Text Editor
+ ✔ should have Github Account
+ ✔ should have Heroku Account
+ ✔ should have Portable Git Bash
 
- 1. Create a local repo
- 2. Create a README.md
- 3. Save it to Github
- 4. Modify our local repo by adding files
-    balamanapp
-     - app.html
-     - css
-       - app.css
-     - js
-       - app.js
- 5. Synchronize local and remote repo
- 6. Deploy it to heroku
+Tasks
+  ☐ $ node -v
+  ☐ $ git --version
+  ☐ $ git clone https://github.com/clydeinwebdev/decodeapp_boilerplate.git myapp
+  ☐ $ npm install
+  ☐ $ node server
 
 <hr/>
 
-#Setup Files
-App Information ```package.json```
-App Documentation ```README.md```
-App Ignore Files ```.gitignore```
-App Tasks ```tasks.todo```
+Troubleshooting Guide
 
-<hr/>
-
-#SSH/HTTP Troubleshooting Codes
+#SSH/HTTP odes
 
 * ```$ cd ~/.ssh```
 * ```$ ssh-keygen -t rsa -b 4096 -C "your email address"```
@@ -56,7 +47,5 @@ Enter same passphrase again:
 * ```$ git remote -v```
 * ```$ git remote set-url origin https://github.com/clydeinwebdev/balamanapp.git```
 * ```$ git push -u origin master```
-=======
-# decodeapp_boilerplate
-Decode App Boiler-Plate/Starter File/NodeHerokuSetup
->>>>>>> 79b8f72772a8a23fe450717ee76e14851415b0d4
+
+
