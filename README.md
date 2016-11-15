@@ -24,9 +24,13 @@ Checklist
 Tasks
 
   ☐ $ node -v
+  
   ☐ $ git --version
+  
   ☐ $ git clone https://github.com/clydeinwebdev/decodeapp_boilerplate.git myapp
+  
   ☐ $ npm install
+  
   ☐ $ node server
 
 <hr/>
