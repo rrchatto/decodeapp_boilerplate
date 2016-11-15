@@ -12,9 +12,13 @@ Tools
 Checklist
 
  ✔ should have node installed
+ 
  ✔ should have Sublime Text Editor
+ 
  ✔ should have Github Account
+ 
  ✔ should have Heroku Account
+ 
  ✔ should have Portable Git Bash
 
 Tasks
